@@ -1,0 +1,1 @@
+/data merge entity @e[name=Nelida,limit=1] {VillagerData:{Offers:{Recipes:[{sell: {id: "minecraft:diamond_shovel", Enchantments: [{id: "minecraft:efficiency", lvl: 4s}], Count1b, }
